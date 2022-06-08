@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@types/node": "^17.0.41",
+    "express": "^4.18.1",
+    "integrity": "^0.0.4",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.6",
+    "resolved": "^2.0.1",
+    "version": "^0.0.4"
+  },
+  "name": "social-network-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dokodesara/Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dokodesara/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/dokodesara/Social-Network-API#readme"
+}
